@@ -1,8 +1,8 @@
-## <h1 align="left">Hey 👋 Seja bem vindo(a)</h1>
+## <h1 align="left">Hey 👋 Welcome(a)
 
 ###
 
-<p align="left">My name is Wellington and I'm a Tecnólogo em Segurança da Informação SI,</p>
+<p align="left"> *"Here quem fala é Wellington and I'm a Tecnólogo em Segurança da Informação SI"*,</p>
 
 ###
 
