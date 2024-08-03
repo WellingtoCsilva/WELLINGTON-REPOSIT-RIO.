@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Cyber Security <br>📚 I'm currently estou tirando varias certificações <br>🎯 Goals: Ser um Ser Humano melhor todos os dias<br>🎲 Fun fact: ...  Apaixonado por tecnologia</p>
+<p align="left">✨Cyber Security <br>📚 I'm currently estou adquirindo algumas certificações <br>🎯 Goal: Ser um Pessoa melhor todos os dias <br>🎲 Fun fact: ...  Apaixonado por tecnologia</p>
 
 ###
 
